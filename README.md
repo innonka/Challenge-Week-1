@@ -25,7 +25,7 @@ SO THAT our own site is optimized for search engines
 
 ## Screenshot
 
-![Screenshot of the changed website.](Assets/images/screenshot1.png)
+![Screenshot of the changed website.](assets/images/screenshot1.png)
 
 ## Installation
 
