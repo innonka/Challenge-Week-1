@@ -2,7 +2,7 @@
 
 ## Description 
 
-Each week the students work on a bootcamp challenge. The challenge is designed to prepare the students for various real-world scenarios and help them develop their  portfolios. This is teh first challenge done using starter code. 
+Each week the students work on a bootcamp challenge. The challenge is designed to prepare the students for various real-world scenarios and help them develop their  portfolios. This is the first challenge done using starter code. 
 
 ## User Story
 AS A marketing agency
